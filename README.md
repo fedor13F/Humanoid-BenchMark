@@ -6,11 +6,15 @@
 
 ### Base Notation
 
-* D - set of words from the target domain
-* $$w \in D$$ - word from the target domain
-* $$h_{model}(w)$$ - hidden representation of the word  from the model
-* $$P$$ = {"love", "like", "prefer", ... }  - set of positive emotion words
-* $$N$$ = {"hate", "anger", "disgust", ... } - set of negative emotion words
+D - set of words from the target domain 
+
+$$w \in D$$ - word from the target domain 
+
+$$h_{model}(w)$$ - hidden representation of the word  from the model
+  
+$$P$$ = {"love", "like", "prefer", ... }  - set of positive emotion words
+  
+$$N$$ = {"hate", "anger", "disgust", ... } - set of negative emotion words
 
 ### Intuition
 Our approach is grounded in the following intuition: a model exhibits stronger bias towards a
