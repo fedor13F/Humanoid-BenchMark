@@ -37,3 +37,8 @@ representing positive emotions and simultaneously farther from words representin
 ### Tests
 
 <img width="1248" height="518" alt="Снимок экрана 2025-11-22 в 01 05 35" src="https://github.com/user-attachments/assets/a1c4cfac-4362-4bad-a9e4-49f1d7c75325" />
+
+### References
+Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception, 22 Mar 2024, https://arxiv.org/abs/2403.14896
+
+Bias and Fairness in Large Language Models: A Survey, 8 May 2024, https://clck.ru/3QSgt8
