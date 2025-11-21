@@ -1,4 +1,4 @@
-# Humanoid Benchmark - проект в рамках студкемпа от Яндекса и СПБГУ "Математика в ИИ"
+# Humanoid Benchmark - *research проект в рамках студкемпа от Яндекса и СПБГУ "Математика в ИИ"
 
 
 ### The goal of this project is to develop a benchmark for evaluating social bias in Large Language Models (LLM)
